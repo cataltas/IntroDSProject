@@ -1,1 +1,2 @@
-# IntroDSProject
+# Introduction to Data Science Project (Fall 2019)
+This project was the work of Camille Taltas, Francesca Guiso, Tinatin Nikvashvili, and Christine Jeong. The goal of this project was to predict which college students were most likely to drop out given survey data. Along with the predicitive modeling, this project had a descriptive and factor analysis component in order to best understand which aspects of a student's life determines whether or not he/she will drop out. The project report can be found in 1001 Final Project College Dropouts.pdf. The Jupiter Notebook Data Science Projec.ipynb provides all of our code for this project. 
